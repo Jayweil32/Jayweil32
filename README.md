@@ -10,7 +10,7 @@ Passionate about turning data into actionable business insights through my techn
 
 ## About Me
 
-I'm an recent graduate with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, visualization, and process improvement across academic, engineering, and business-focused projects.
+I'm an recent graduate with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, visualization, circuit design, and process improvement across academic, engineering, and business-focused projects.
 
 I enjoy solving complex problems using data and building analytical solutions that support decision-making, improve efficiency, and create measurable business value.
 
@@ -19,21 +19,20 @@ I enjoy solving complex problems using data and building analytical solutions th
 ### Programming & Analytics
 
 * Python
-* R
+* R-Studio
 * T-SQL
 * MATLAB
+* C++
+* Matlab
 
 ### Data Science & Machine Learning
 
-* Scikit-Learn
 * Regression Analysis
 * Classification Models
-* Ensemble Methods
 * Data Mining
 
 ### Visualization & Business Intelligence
 
-* Power BI
 * Tableau
 
 ### Additional Tools
@@ -43,24 +42,13 @@ I enjoy solving complex problems using data and building analytical solutions th
 * Arena Simulation
 * LogixPro 5000
 * Multisim
+* Arduino
 
 ## Featured Projects
-
-### Heart Disease Risk Prediction
-
-Developed predictive models to identify patients at elevated risk of heart disease using clinical and demographic data.
 
 ### Movie ROI Prediction
 
 Built machine learning models to predict movie return on investment and identify key drivers of financial success.
-
-### Boston Housing Analysis
-
-Compared multiple regression and ensemble learning techniques to evaluate housing price prediction performance.
-
-### Image Processing & Restoration
-
-Implemented frequency-domain filtering methods to restore and enhance degraded images.
 
 ## Professional Interests
 
