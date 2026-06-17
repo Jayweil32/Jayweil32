@@ -3,13 +3,13 @@
 <!--
 **Jayweil32/Jayweil32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎓 M.S. in Business Analytics | B.S. in Electrical Engineering
-📊 Data Analytics, Machine Learning, Electrical Engineering, and Business Intelligence
-⚡ Passionate about turning data into actionable business insights through my technical and analytical education
+M.S. in Business Analytics | B.S. in Electrical Engineering
+Data Analytics, Machine Learning, Electrical Engineering, and Business Intelligence
+Passionate about turning data into actionable business insights through my technical and analytical education
 
 ## About Me
 
-I'm an young professional with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, visualization, and process improvement across academic, engineering, and business-focused projects.
+I'm an recent graduate with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, visualization, and process improvement across academic, engineering, and business-focused projects.
 
 I enjoy solving complex problems using data and building analytical solutions that support decision-making, improve efficiency, and create measurable business value.
 
