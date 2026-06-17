@@ -5,7 +5,7 @@
 -->
 
 M.S. in Business Analytics | B.S. in Electrical Engineering
-Data Analytics, Machine Learning, Electrical Engineering, and Business Intelligence
+
 Passionate about turning data into actionable business insights through my technical and analytical education
 
 ## About Me
