@@ -69,6 +69,7 @@ Implemented frequency-domain filtering methods to restore and enhance degraded i
 * Predictive Modeling
 * Process Optimization
 * Data Visualization
+* Electrical Engineering
 
 ## Connect With Me
 
