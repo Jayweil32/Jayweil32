@@ -63,5 +63,6 @@ Built machine learning models to predict movie return on investment and identify
 ## Connect With Me
 
 * LinkedIn: www.linkedin.com/in/jay-weil-profile
+* Tableau Public: https://public.tableau.com/app/profile/jay.weil/vizzes
 * Email: WeilJT@Mail.UC.EDU
 
