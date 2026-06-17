@@ -10,7 +10,7 @@ Passionate about turning data into actionable business insights through my techn
 
 ## About Me
 
-I'm an recent graduate with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, visualization, circuit design, and process improvement across academic, engineering, and business-focused projects.
+I'm an recent graduate with a background in both engineering and business analytics. My experience includes predictive modeling, data mining, statistical analysis, data visualization, circuit design, and process improvement across academic, engineering, and business-focused projects.
 
 I enjoy solving complex problems using data and building analytical solutions that support decision-making, improve efficiency, and create measurable business value.
 
