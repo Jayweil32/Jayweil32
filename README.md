@@ -49,6 +49,10 @@ I enjoy solving complex problems using data and building analytical solutions th
 
 Built machine learning model to predict movie return on investment and identify key drivers of financial success.
 
+### Monte Carlo Simulation Webpage
+
+Built a webpage (HTML) to demonstrate how the Monte Carlo Simulation performs with adjustable trial counts (10,000-100,000).
+
 ## Professional Interests
 
 * Data Analytics
