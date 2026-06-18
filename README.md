@@ -23,7 +23,6 @@ I enjoy solving complex problems using data and building analytical solutions th
 * T-SQL
 * MATLAB
 * C++
-* Matlab
 
 ### Data Science & Machine Learning
 
@@ -37,7 +36,7 @@ I enjoy solving complex problems using data and building analytical solutions th
 
 ### Additional Tools
 
-* Git & GitHub
+* GitHub
 * Excel
 * Arena Simulation
 * LogixPro 5000
@@ -48,7 +47,7 @@ I enjoy solving complex problems using data and building analytical solutions th
 
 ### Movie ROI Prediction
 
-Built machine learning models to predict movie return on investment and identify key drivers of financial success.
+Built machine learning model to predict movie return on investment and identify key drivers of financial success.
 
 ## Professional Interests
 
