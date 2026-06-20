@@ -53,6 +53,10 @@ Built machine learning model to predict movie return on investment and identify 
 
 Built a webpage (HTML) to demonstrate how the Monte Carlo Simulation performs with adjustable trial counts (10,000-100,000).
 
+## Colonist.IO card counting extension
+
+Built a webpage extension for the browser version of Catan, which helps the player keep track of their opponents cards
+
 ## Professional Interests
 
 * Data Analytics
