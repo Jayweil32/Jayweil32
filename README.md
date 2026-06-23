@@ -57,7 +57,7 @@ Built a webpage (HTML) to demonstrate how the Monte Carlo Simulation performs wi
 
 Built a Orange Data Mining (no-code) workflow for classifying risk for heart diease using Random Forest and Logistic Regression with SHAP-based explainability.
 
-### Colonist.IO card counting extension
+### Colonist.io card counting extension
 
 Built a webpage extension for the browser version of Catan, which helps the player keep track of their opponents cards
 
