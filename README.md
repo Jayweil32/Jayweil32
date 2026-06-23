@@ -21,8 +21,10 @@ I enjoy solving complex problems using data and building analytical solutions th
 * Python
 * R-Studio
 * T-SQL
+* HTML
 * MATLAB
 * C++
+* JavaScript
 
 ### Data Science & Machine Learning
 
