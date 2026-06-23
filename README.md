@@ -53,6 +53,10 @@ Built machine learning model to predict movie return on investment and identify 
 
 Built a webpage (HTML) to demonstrate how the Monte Carlo Simulation performs with adjustable trial counts (10,000-100,000).
 
+### Heart Disease Risk Classification Model
+
+Built a Orange Data Mining (no-code) workflow for classifying risk for heart diease using Random Forest and Logistic Regression with SHAP-based explainability.
+
 ### Colonist.IO card counting extension
 
 Built a webpage extension for the browser version of Catan, which helps the player keep track of their opponents cards
