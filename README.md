@@ -55,11 +55,11 @@ Built a webpage (HTML) to demonstrate how the Monte Carlo Simulation performs wi
 
 ### Heart Disease Risk Classification Model
 
-Built a Orange Data Mining (no-code) workflow for classifying risk for heart diease using Random Forest and Logistic Regression with SHAP-based explainability.
+Built a Orange Data Mining (no-code) workflow for classifying risk for heart disease using Random Forest and Logistic Regression with SHAP-based explainability.
 
 ### Boston Housing Supervised Learning Case Study
 
-Built seven regression models --linear, regression, k-NN, random forests, Boosting, GAM, and neural networks (scaled X&Y) -- on the Boston Housing dataset in R studio
+Built and compared seven regression models -- linear, regression tree, k-NN, random forests, Boosting, GAM, and neural networks (scaled X&Y) -- on the Boston Housing dataset in R studio
 
 ### Colonist.io card counting extension
 
