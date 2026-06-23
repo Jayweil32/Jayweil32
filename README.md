@@ -81,5 +81,5 @@ Built a webpage extension for the browser version of Catan, which helps the play
 
 * LinkedIn: www.linkedin.com/in/jay-weil-profile
 * Tableau Public: https://public.tableau.com/app/profile/jay.weil/vizzes
-* Email: WeilJT@Mail.UC.EDU
+* Email: WeilJT@Mail.UC.edu
 
