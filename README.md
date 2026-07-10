@@ -44,6 +44,7 @@ I enjoy solving complex problems using data and building analytical solutions th
 * LogixPro 5000
 * Multisim
 * Arduino
+* Orange
 
 ## Featured Projects
 
