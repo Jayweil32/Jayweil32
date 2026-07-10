@@ -45,6 +45,7 @@ I enjoy solving complex problems using data and building analytical solutions th
 * Multisim
 * Arduino
 * Orange
+* SHAP
 
 ## Featured Projects
 
